@@ -1,0 +1,24 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mdx-deck build deck.mdx",
+    "pdf": "mdx-deck pdf deck.mdx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^2.4.0",
+    "mdx-deck-code-surfer": "^0.5.5",
+    "mdx-loader": "^3.0.2",
+    "raw-loader": "^3.0.0"
+  },
+  "dependencies": {
+    "react-syntax-highlighter": "^10.3.0"
+  }
+}
