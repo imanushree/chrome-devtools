@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mdx-deck": "^2.4.0",
+    "mdx-deck": "^4.1.1",
     "mdx-deck-code-surfer": "^0.5.5",
     "mdx-loader": "^3.0.2",
     "raw-loader": "^3.0.0"
